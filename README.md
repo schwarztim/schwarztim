@@ -1,23 +1,23 @@
 # Timothy Schwarz
 
-**Application Security Architect** at QVC/Qurate Retail Group
+**AI & Application Security Architect** at QVC Group
 
-I design and operate security systems at global retail scale — identity, API protection, AI governance, and the infrastructure underneath all of it.
+I build security programs that protect billions in revenue and AI platforms that make entire organizations faster. 16 years spanning USAF network operations, incident response, web security engineering, and security architecture.
 
 ---
 
 **Focus areas**
 
-- Web application and API security
-- AI/LLM governance and secure integration patterns
-- Identity, zero trust, and access control architecture
-- Security tooling automation (MCP, custom integrations)
+- Web application security at global scale (11 brands, 5 countries, 330+ hostnames)
+- AI security governance and LLM integration patterns
+- Identity, zero trust, and API protection architecture
+- Security tooling automation and platform engineering
 
 **Currently building**
 
-- MCP server ecosystem for enterprise security operations
-- Auth broker layer for AI agent infrastructure
-- Fleet management and remote ops tooling for homelab/edge
+- AI governance framework for enterprise AI deployments
+- Autonomous MCP server generation from API specifications
+- Multi-agent cooperation systems based on published research
 
 ---
 
